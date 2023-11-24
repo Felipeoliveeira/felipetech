@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Teste de primeiros commit</h1>
+    return <h1>Novos commits</h1>
 }
 
-export default Home ;
+export default Home();
