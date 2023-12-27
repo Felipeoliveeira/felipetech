@@ -1,10 +1,4 @@
-function Home() {
-  return (
-    <h1>
-      Olá, me chamo Felipe Oliveira e estou aqui para dar o meu melhor com este
-      novo projeto do tabnews.
-    </h1>
-  );
+function funcao(){
+  return <h1> Chamo-me Felipe Oliveira e estou animado com o curso.dev</h1>
 }
-
-export default Home;
+export default funcao
