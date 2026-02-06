@@ -1,6 +1,15 @@
+import Head from 'next/head'
+
 function funcao(){
 
-  return <h1>Olá meu nome é Felipe Oliveira, e sou estudante de ADS.</h1>
+  return (
+    <>
+      <Head>
+        <title>Felipe Tech Studio</title>
+      </Head>
+      <h1>Hello, world! My name is Felipe and I'm programming with a cursor.</h1>
+    </>
+  )
 
 }
 export default funcao
