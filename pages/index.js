@@ -7,7 +7,10 @@ function funcao(){
       <Head>
         <title>Felipe Tech Studio</title>
       </Head>
-      <h1>Hello, world! My name is Felipe and I'm programming with a cursor.</h1>
+      <div style={{ minHeight: '100vh', backgroundColor: 'rgba(128, 128, 128, 0.25)' }}>
+        <h1>Hello, world! My name is Felipe and I'm programming with a cursor.</h1>
+        <p>testando commit</p>
+      </div>
     </>
   )
 
